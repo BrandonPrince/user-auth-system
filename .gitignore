@@ -1,0 +1,27 @@
+Python
+
+pycache/ *.pyc *.pyo *.pyd .Python env/ venv/ ENV/ env.bak/ venv.bak/ *.egg-info/ dist/ build/ *.log
+
+Flask/FastAPI
+
+instance/ .webassets-cache
+
+Flutter/Dart
+
+.dart_tool/ .flutter-plugins .flutter-plugins-dependencies .packages .pub-cache/ .pub/ build/ ios/Flutter/App.framework ios/Flutter/Flutter.framework ios/Flutter/Generated.xcconfig android/.gradle/ android/app/build/ *.apk *.aab *.flutter-plugins *.flutter-plugins-dependencies *.lock
+
+Docker
+
+*.env docker-compose.override.yml
+
+IDEs and editorsa
+
+.idea/ .vscode/ *.suo .ntvs*.njsproj *.sln *.swp
+
+OS generated files
+
+.DS_Store Thumbs.db
+
+Miscellaneous
+
+*.bak *.swp *.swo *.tmp
